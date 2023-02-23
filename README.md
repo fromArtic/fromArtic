@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 <p align="center">
     <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=fromArtic"/></a>
 
-    <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api?     username=fromArtic&show_icons=true&include_all_commits=true&theme=dark&count_private=true&title_color44d62c&ring_color=44d62c"/>
+    <img height="150cm" src="https://github-readme-stats-sigma-five.vercel.app/api?     username=fromArtic&show_icons=true&include_all_commits=true&theme=dark&count_private=true&title_color44d62c&ring_color=44d62c"/>
 </p>
