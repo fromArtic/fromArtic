@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-    [![GitHub Streak](https://streak-stats.demolab.com?user=fromArtic)](https://git.io/streak-stats)
+    <img src="https://streak-stats.demolab.com?user=DenverCoder1"; width="50"/>
 </p>
